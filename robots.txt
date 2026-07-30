@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /?
+Disallow: /*?
+Disallow: /*?page=
+Disallow: /cgi-bin*
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://100bruiloft.nl/sitemap.xml
