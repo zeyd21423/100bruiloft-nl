@@ -1,3 +1,4 @@
 /index.php / 301
-/spindog-nl/* /spindog-casino-nl/:splat 301
-/netherlands-nl/* /spindog-casino-nl/:splat 301
+/spindog-casino-nl/* /spin-dog-casino-nl/:splat 301
+/spindog-nl/* /spin-dog-casino-nl/:splat 301
+/netherlands-nl/* /spin-dog-casino-nl/:splat 301
